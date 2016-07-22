@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'FuturaStd-Book';
+  src: url('FuturaStd-Book.eot?#iefix') format('embedded-opentype'),  url('FuturaStd-Book.otf')  format('opentype'),
+	     url('FuturaStd-Book.woff') format('woff'), url('FuturaStd-Book.ttf')  format('truetype'), url('FuturaStd-Book.svg#FuturaStd-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'FuturaStd-Heavy';
+  src: url('FuturaStd-Heavy.eot?#iefix') format('embedded-opentype'),  url('FuturaStd-Heavy.otf')  format('opentype'),
+	     url('FuturaStd-Heavy.woff') format('woff'), url('FuturaStd-Heavy.ttf')  format('truetype'), url('FuturaStd-Heavy.svg#FuturaStd-Heavy') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
